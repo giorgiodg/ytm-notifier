@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Music Notifier",
+  "version": "1.0",
+  "description": "Native macOS notifications for new songs on YouTube Music",
+  "permissions": ["notifications", "activeTab", "tabs"],
+  "host_permissions": ["https://music.youtube.com/*"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://music.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icons/icon.png"
+  }
+}
