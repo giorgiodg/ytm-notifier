@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Music Notifier",
+  "name": "ytm-notifier",
   "version": "1.0",
   "description": "Native macOS notifications for new songs on YouTube Music",
   "permissions": ["notifications", "activeTab", "tabs"],
@@ -15,7 +15,7 @@
     }
   ],
   "icons": {
-    "48": "icons/icon.png",
-    "96": "icons/icon.png"
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
   }
 }
