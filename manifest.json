@@ -13,7 +13,7 @@
       }
     }
   },
-  "description": "Native macOS notifications for new songs on YouTube Music",
+  "description": "Desktop notifications for new songs on YouTube Music",
   "permissions": ["notifications", "activeTab", "tabs"],
   "host_permissions": ["https://music.youtube.com/*"],
   "background": {

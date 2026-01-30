@@ -1,7 +1,7 @@
 {
   "name": "ytm-notifier",
   "summary": {
-    "en-US": "Native macOS notifications for new songs on YouTube Music"
+    "en-US": "Desktop notifications for new songs on YouTube Music"
   },
   "categories": {
     "firefox": ["alerts-updates", "photos-music-videos"]
