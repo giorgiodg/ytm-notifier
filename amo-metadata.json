@@ -1,0 +1,17 @@
+{
+  "name": "ytm-notifier",
+  "summary": {
+    "en-US": "Native macOS notifications for new songs on YouTube Music"
+  },
+  "categories": {
+    "firefox": ["alerts-updates", "photos-music-videos"]
+  },
+  "version": {
+    "license": "MIT"
+  },
+  "homepage": {
+    "en-US": "https://github.com/giorgiodg/ytm-notifier"
+  },
+  "support_url": "https://your-site.example.com/ytm-notifier/support",
+  "requires_payment": false
+}
