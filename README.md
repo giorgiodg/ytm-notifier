@@ -6,6 +6,8 @@ A notification will popup everytime a new song is played.
 
 Its implementation followed the [KISS](https://en.wikipedia.org/wiki/KISS_principle) principle.
 
+[Firefox Add-on page](https://addons.mozilla.org/en-US/firefox/addon/ytm-notifier/)
+
 ## Screenshots
 
 YouTube Music Player
