@@ -1,6 +1,6 @@
 # <sub><img src="https://raw.githubusercontent.com/giorgiodg/ytm-notifier/refs/heads/main/icons/icon-48.png" width="36px" height="36px"></sub> Youtube Music Notifier
 
-**Youtube Music Notifier** is a Firefox add-on that enables Desktop notifications for YouTube Music.
+**Youtube Music Notifier** is a Firefox add-on that enables Web Push notifications for YouTube Music.
 
 A notification will popup everytime a new song is played.
 
